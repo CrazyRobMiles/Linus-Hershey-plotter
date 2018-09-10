@@ -1,7 +1,13 @@
 # Linus-Hershey-plotter
 Using a Hershey font to print text with a line-us plotter
 
-This is heavily based on the work of Stewart C. Russell, aka scruss, who posted the Hershey files and a Python decoding program [here](https://github.com/scruss/python-hershey) You can do what you like with the code, but according to Stewart  the following be should be kept in any distribution derived from the work of the Usenet Font Consortium:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2rRiRkqfCpg
+" target="_blank"><img src="http://img.youtube.com/vi/2rRiRkqfCpg/0.jpg" 
+alt="line-us writing" width="320" border="10" /></a>
+
+This is heavily based on the work of Stewart C. Russell, aka scruss, who posted the Hershey files and a Python decoding program [here](https://github.com/scruss/python-hershey). 
+
+You can do what you like with the code, but according to Stewart the following be should be kept in any distribution derived from the work of the Usenet Font Consortium:
 
 ```
 USE RESTRICTION:
